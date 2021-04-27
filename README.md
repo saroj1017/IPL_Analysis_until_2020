@@ -5,6 +5,7 @@ Great chcunks of money is invested in both the local and overseas player to stre
 So for this investment to be done requires a lot of data to be looked upon starting from strike rate to average to death bowling to mention a few.
 
 We can get lot of insights through the Exploartion of the IPL Dataset which was crawled and is available in kaggle.
+Thanks to https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020.
 
 We have two datasets to work on :
 * Matches datset
