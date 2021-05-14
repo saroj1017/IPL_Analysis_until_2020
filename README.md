@@ -26,4 +26,7 @@ Best and worst team on defending and chasing
 There are other analysis is also done which are suffixed with proper text and are avilable in the ipython notebook.
 
 Also various plots are shown using the matplotlib library to visualize the data better and conclude well on the output.
+<!---
+![](images/percentage_won_after_losing_toss.png) -->
 
+<img src='images/percentage_won_after_losing_toss.png' width = 700>
