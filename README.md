@@ -26,7 +26,19 @@ Best and worst team on defending and chasing
 There are other analysis is also done which are suffixed with proper text and are avilable in the ipython notebook.
 
 Also various plots are shown using the matplotlib library to visualize the data better and conclude well on the output.
+
+
 <!---
 ![](images/percentage_won_after_losing_toss.png) -->
 
+
+**For Example** :<br>
+In the below plot , i have analysed the percenatge of matches won by a team after loosing the toss.
+And based on the plot we can infer that Mumbai Indians have won most matches although they have lost the toss.
+
 <img src='images/percentage_won_after_losing_toss.png' width = 700>
+
+
+How to Run 
+* You can view all the plots and analysis on the below iplython notebook
+https://github.com/saroj1017/IPL_Analysis_until_2020/blob/main/IPL_Analysis_untill_2020.ipynb
